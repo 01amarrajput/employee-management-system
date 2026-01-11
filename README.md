@@ -16,8 +16,12 @@ Full-stack application with Spring Boot backend and React frontend.
 - MySQL
 
 ## Run Instructions
-1. Run backend:
-2. Run frontend:
+1. Run backend: cd backend
+                mvn spring-boot:run
+
+3. Run frontend: cd frontend
+                 npm install
+                 npm start
 
 
 ## Author
